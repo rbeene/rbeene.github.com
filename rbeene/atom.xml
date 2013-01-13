@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[It's an Open Source World]]></title>
+  <link href="http://rbeene.github.com/atom.xml" rel="self"/>
+  <link href="http://rbeene.github.com/"/>
+  <updated>2013-01-12T22:22:57-05:00</updated>
+  <id>http://rbeene.github.com/</id>
+  <author>
+    <name><![CDATA[Robert Beene]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
