@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: workplace | It's an Open Source World]]></title>
+  <link href="http://robertbeene.com/blog/categories/workplace/atom.xml" rel="self"/>
+  <link href="http://robertbeene.com/"/>
+  <updated>2013-01-13T18:50:38-05:00</updated>
+  <id>http://robertbeene.com/</id>
+  <author>
+    <name><![CDATA[Robert Beene]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Gender in the Web Development World]]></title>
+    <link href="http://robertbeene.com/blog/2013/01/13/gender-in-the-web-development-world/"/>
+    <updated>2013-01-13T10:02:00-05:00</updated>
+    <id>http://robertbeene.com/blog/2013/01/13/gender-in-the-web-development-world</id>
+    <content type="html"><![CDATA[<p>I've been thinking about gender lately. I've been a full time developer since 2006; working on 5 different teams but it wasn't until September 2010 that I had worked with a female developer. In the past, these male dominated teams suffered at times with debates that really amounted to people speaking past each other at increasing volumes. Innovation suffers in places like these and I can say that was certainly the case.</p>
+
+<p>Meanwhile, I've noticed a push for females to have avenues to get involved in web development. This has manifested itself in women specific ruby groups, <a href="http://coderdojonyc.com/2013/01/02/girls-hack-day-january-27th-2012/">workshops that are women only</a>, and an overall desire if not necessity to have female speakers at conferences.</p>
+
+<p>In the case of the britruby conference, a backlash over an all white male speaker list took place and with the possibility of sponsors bailing, the conference was <a href="https://gist.github.com/4106776" title="Unofficial Statement">cancelled</a>. The <a href="http://bostinno.com/2012/03/20/boston-api-jam-publishes-eventbrite-with-sexist-language-enrages-community-sponsors-quick-to-pull-out/">Boston API Jam</a> took heat; what with their "friendly female" event staff capable of getting you another beer. Sponsorship was pulled by Heroku and Apigee as a result.</p>
+
+<h3>Heroku's Response Tweet</h3>
+
+<blockquote><p>Investigating Boston API Jam fiasco. Our sponsorships are handled by women and we do take this issue seriously.</p></blockquote>
+
+<p><code>I find it odd that they have to point out that their sponsorships are handled by women. I would like to think that men would also be capable of taking the issue seriously.</code></p>
+
+<p>Meanwhile, some developers are growing tired of the intense push for equality (both gender and ethnic diversity). Recently, I saw a website quiz (link escapes me) to test if your conference meets diversity requirements. If you fail to answer positively to any of these, you are labeled a misogynist and other terms no one ever wants to be associated with.</p>
+
+<p>As technology has become even more important, it's surprising to see the <a href="http://en.wikipedia.org/wiki/Women_in_computing#In_the_workforce">decline</a> in the percentage of women working in it. I recognize that there is an inherent problem when any industry is dominated by a "boys' club" which makes it unfriendly to females or ethnic groups different than the one that permeates within. I do wonder though if this boys' club problem didn't exist, would we achieve a balance equivalent to the population ratio?</p>
+
+<p>One thing is for certain, if we as an industry do reach that sort of balance, <a href="http://blog.jessitron.com/2012/09/this-is-not-ok.html" title="women need bathrooms too">this</a> can't happen.</p>
+]]></content>
+  </entry>
+  
+</feed>

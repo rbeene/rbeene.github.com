@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: gender,workplace | It's an Open Source World]]></title>
-  <link href="http://robertbeene.com/blog/categories/gender-workplace/atom.xml" rel="self"/>
+  <title><![CDATA[Category: gender | It's an Open Source World]]></title>
+  <link href="http://robertbeene.com/blog/categories/gender/atom.xml" rel="self"/>
   <link href="http://robertbeene.com/"/>
-  <updated>2013-01-13T18:03:18-05:00</updated>
+  <updated>2013-01-13T18:50:38-05:00</updated>
   <id>http://robertbeene.com/</id>
   <author>
     <name><![CDATA[Robert Beene]]></name>
